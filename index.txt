@@ -1,0 +1,4 @@
+1. Prime check
+2. Add 2 Array
+3. Subtract 2 Array
+4. Multiply 2 Array
