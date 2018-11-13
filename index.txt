@@ -2,3 +2,15 @@
 2. Add 2 Array
 3. Subtract 2 Array
 4. Multiply 2 Array
+5. Add 2 Matrix
+6. Subtract 2 Matrix
+7. Multiply 2 Matrix
+8. Bubble Sort
+9. Insertion & Selection Sort
+10. Sum & Average of Array
+11. Linked List
+12. Stack
+13. Queue
+14. Linear Search
+15. Binary Search
+16. Tower of Hanoi
