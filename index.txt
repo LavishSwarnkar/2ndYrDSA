@@ -14,3 +14,7 @@
 14. Linear Search
 15. Binary Search
 16. Tower of Hanoi
+17. Quick Sort
+18. Merge Sort
+19. Heap Sort
+20. All Sorting Algos
